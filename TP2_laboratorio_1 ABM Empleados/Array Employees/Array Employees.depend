@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1570069912 source:c:\users\usuario\desktop\programacion1baus\tp2 abm empleados\array employees\arrayemployees.c
+
+1570222679 source:c:\users\usuario\desktop\programacion1baus\tp2 abm empleados\array employees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"ctype.h"
+
+1570237359 source:c:\users\alumno\desktop\practicandotps-master\tp2 abm empleados\array employees\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"ctype.h"
+
+1570234734 source:c:\users\alumno\desktop\practicandotps-master\tp2 abm empleados\array employees\main.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"ctype.h"
+
+1570233969 c:\users\alumno\desktop\practicandotps-master\tp2 abm empleados\array employees\arrayemployees.h
+
+1570241078 source:c:\users\usuario\desktop\tp2-cesare francisco\tp2 abm empleados\array employees\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"ctype.h"
+
+1570223128 c:\users\usuario\desktop\tp2-cesare francisco\tp2 abm empleados\array employees\arrayemployees.h
+
+1570240366 source:c:\users\usuario\desktop\tp2-cesare francisco\tp2 abm empleados\array employees\main.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"ctype.h"
+
